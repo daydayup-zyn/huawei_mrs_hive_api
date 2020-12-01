@@ -1,0 +1,70 @@
+{
+  "03045":[
+    {"SCYW":"buf_pms"}
+  ],
+  "03087":[
+    {"MW_APP":"buf_tms"},
+    {"MW_SYS":"buf_tms"}
+  ],
+  "03104":[
+    {"ANJIAN":"buf_aj"}
+  ],
+  "03030":[
+    {"FMIS2900":"buf_fcm"}
+  ],
+  "03246": [
+    {"DWZY":"buf_gis"}
+  ],
+  "03044": [
+    {"MW_APP":"buf_oms"}
+  ],
+  "03052": [
+    {"CIM": "buf_mcsas"}
+  ],
+  "03050": [
+    {"MW_APP": "buf_vms"},
+    {"MW_SYS": "buf_vms"}
+  ],
+  "03021": [
+    {"Z_XT_FICO": "buf_fdcm"}
+  ],
+  "03125": [
+    {"SAPSR3": "buf_erp"}
+  ],
+  "03064": [
+    {"SGMS": "buf_cms_yxjc"}
+  ],
+  "03047": [
+    {"MW_APP": "buf_cmst"},
+    {"SCYW": "buf_cmst"}
+  ],
+  "03085": [
+    {"I6000_ALA": "buf_ims"},
+    {"I6000_CBM": "buf_ims"},
+    {"I6000_COL": "buf_ims"},
+    {"I6000_DIS": "buf_ims"},
+    {"I6000_INSP": "buf_ims"},
+    {"I6000_ITOM": "buf_ims"},
+    {"I6000_PER": "buf_ims"},
+    {"I6000_REP": "buf_ims"},
+    {"I6000_RES": "buf_ims"},
+    {"I6000_RUN": "buf_ims"},
+    {"I6000_STA": "buf_ims"},
+    {"I6000_SYS": "buf_ims"}
+  ],
+  "03098": [
+    {"LOSS_SUB_ADMIN": "buf_loss"}
+  ],
+  "03105": [
+    {"YJZH": "buf_ecs"}
+  ],
+  "03055": [
+    {"SGPMS": "buf_cms"}
+  ],
+  "03056": [
+    {"CQDB": "buf_amr"}
+  ],
+  "010101": [
+    {"zyn": "default"}
+  ]
+}
